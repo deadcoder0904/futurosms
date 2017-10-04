@@ -1,0 +1,17 @@
+export default [
+  { name: 'Light Blue', value: '#4A90E2' },
+  { name: 'Bittersweet', value: '#fe6f5e' },
+  { name: 'Pink', value: 'pink' },
+  { name: 'Light Salmon', value: '#ffa07a' },
+  { name: 'Light Salmon Pink', value: '#ff9999' },
+  { name: 'Indigo', value: 'indigo' },
+  { name: 'Green', value: 'green' },
+  { name: 'Blue Green', value: '#0d98ba' },
+  { name: 'Light Sea Green', value: '#20b2aa' },
+  { name: 'Violet', value: 'violet' },
+  { name: 'CG Blue', value: '#007aa5' },
+  { name: 'Orange', value: 'orange' },
+  { name: 'Yellow Green', value: '#bada55' },
+  { name: 'Blue Gray', value: '#6699cc' },
+  { name: 'Dark', value: '#000000' },
+];

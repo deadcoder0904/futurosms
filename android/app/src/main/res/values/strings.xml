@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">rhIMiB6Vq2FvEXSb9sVGk7HkYd863f75a8bb-7574-4aff-bc61-e7f67ae97a4a</string>
+    <string name="app_name">Futuro SMS</string>
+</resources>
