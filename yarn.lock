@@ -1288,6 +1288,10 @@ combined-stream@^1.0.5, combined-stream@~1.0.5:
   dependencies:
     delayed-stream "~1.0.0"
 
+command-exists@^1.0.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/command-exists/-/command-exists-1.2.2.tgz#12819c64faf95446ec0ae07fe6cafb6eb3708b22"
+
 commander@^2.9.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.11.0.tgz#157152fd1e7a6c8d98a5b715cf376df928004563"
@@ -4408,6 +4412,15 @@ react-native-extended-stylesheet@^0.6.0:
   dependencies:
     css-mediaquery "^0.1.2"
     object-resolve-path "^1.1.0"
+
+react-native-icon@^0.2.10:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/react-native-icon/-/react-native-icon-0.2.10.tgz#9177e647ac05e22f3dbe20fa7ab4bb4a31363fb4"
+  dependencies:
+    chalk "^1.1.3"
+    command-exists "^1.0.2"
+    commander "^2.9.0"
+    mkdirp "^0.5.1"
 
 "react-native-keyboard-aware-scroll-view@https://github.com/GeekyAnts/react-native-keyboard-aware-scroll-view":
   version "0.2.9"
