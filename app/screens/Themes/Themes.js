@@ -29,7 +29,7 @@ class Themes extends Component {
     const theme = getTheme();
     const selectedTheme = this.state.colors.map(color => color.value).indexOf(theme);
     this.setState({ selectedTheme });
-    AdMobInterstitial.requestAd(AdMobInterstitial.showAd);
+    AdMobInterstitial.requestAd(() => AdMobInterstitial.showAd());    
   }
 
   _selectedTheme = i => this.setState({ selectedTheme: i });
